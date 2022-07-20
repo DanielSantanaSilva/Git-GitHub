@@ -3,7 +3,8 @@
 
 Essa linha foi adicionada diretamente no site! (Direto no meu Git Hub)
 
-# linguagem Markdown utilizada
+# linguagem Markdown
+Aula de Markdown para aprender a utilização
 
 **Markdown**
 
