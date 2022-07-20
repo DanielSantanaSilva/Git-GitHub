@@ -40,5 +40,5 @@ Lista demarcada:
 Lista de Tarefas:
 
 - [X] Criar a página principal
-- [ ] Criar a página da loja
+- [x] Criar a página da loja
 - [ ] Finalizar reunião
