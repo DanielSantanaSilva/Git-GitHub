@@ -42,3 +42,11 @@ Lista de Tarefas:
 - [X] Criar a página principal
 - [x] Criar a página da loja
 - [ ] Finalizar reunião
+
+Tabela:
+
+Num | Nome | Nota
+---|---|---|
+1| Daniel | 10.0
+2| Eduardo | 9.0
+3| Vitória | 8.5
